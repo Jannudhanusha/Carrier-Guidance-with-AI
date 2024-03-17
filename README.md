@@ -21,3 +21,10 @@ Install dependencies using:
 
 ```bash
 pip install -r requirements.txt
+
+## Setup
+
+**Obtain OpenAI API Key**: You need to sign up for OpenAI and obtain an API key. Set up a `.env` file in the project directory and add your API key:
+
+```plaintext
+OPENAI_API_KEY=your_api_key_here
